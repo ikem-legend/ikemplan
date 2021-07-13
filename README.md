@@ -1,6 +1,6 @@
 # Simple Blog App
 
-A simple blog like app using React, Redux and Firebase. It has features like authentication, state management and real-time notifications
+A simple blog using React, Redux and Firebase. It has features like authentication, state management and real-time notifications
 
 ## Getting Started
 
